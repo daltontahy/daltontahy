@@ -8,7 +8,7 @@
 ~ I aspire to apply my unique worldview to a vast array of computing projects  
 
 
-## What's Playing?
+### What's Playing?
 &nbsp;<div align="left">
   [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
 </div>
