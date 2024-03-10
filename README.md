@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Spotify](https://daltonthefish.vercel.app/api/spotify)](https://open.spotify.com/user/daltonthefish)
+
 <!--
 **daltontahy/daltontahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
