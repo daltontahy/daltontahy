@@ -5,7 +5,10 @@
 ~ Orginally from New York, I'm currently pursuing my BS in Boston, MA  
 ~ My passions lie in culture, art, writing, and music   
 ~ I love the intersection between creativity and technology, as explored in my projects   
-~ I aspire to apply my unique worldview to a vast array of computing projects
+~ I aspire to apply my unique worldview to a vast array of computing projects  
+
+## Professional Information
+My resume is in both [Spanish}(https://github.com/daltontahy/daltontahy/blob/main/Resumes/Dalton_Tahy_Resume-Spanish.pdf) and English
 <br/><br/>
 ### What's Playing?
 &nbsp;<div align="center">
