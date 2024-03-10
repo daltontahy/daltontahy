@@ -7,7 +7,7 @@
 ~ I love the intersection between creativity and technology, as explored in my projects   
 ~ I aspire to apply my unique worldview to a vast array of computing projects  
 
-
+<br/><br/>
    
 
 ### What's Playing?
