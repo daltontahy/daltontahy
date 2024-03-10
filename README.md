@@ -1,5 +1,6 @@
 ### Hi! My Name Is Dalton!
 
+## Academics 
 -> I'm A Freshman At Northeastern University Majoring In Computer Science & Math!
 
 &nbsp;<div align="center">
