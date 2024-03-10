@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! My Name Is Dalton!
+
+## -> I'm A Freshman At Northeastern University Majoring In Computer Science & Math!
 
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
