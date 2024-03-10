@@ -1,5 +1,6 @@
 ### Hi! My Name Is Dalton! 
--> I'm A Freshman At Northeastern University Majoring In Computer Science & Math!
+-> I'm A Current Freshman At Northeastern University Majoring In Computer Science & Math
+-> My Interests Intersect Computing And Culture, Leading To My Persuit Of A Spanish Minor
 
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
