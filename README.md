@@ -1,6 +1,6 @@
 # Hi! My Name Is Dalton! 
 ### I'm A Current Freshman At Northeastern University Majoring In Computer Science & Math!  
-\.
+\
 # Who Am I?
 ~ Orginally from New York, I'm currently pursuing my BS in Boston, MA  
 ~ My passions lie in culture, art, writing, and music   
