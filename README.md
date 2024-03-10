@@ -8,7 +8,7 @@
 ~ I aspire to apply my unique worldview to a vast array of computing projects  
 
 ## Professional Information
-My resume is in both [Spanish}(https://github.com/daltontahy/daltontahy/blob/main/Resumes/Dalton_Tahy_Resume-Spanish.pdf) and English
+My resume is in both [Spanish](https://github.com/daltontahy/daltontahy/blob/main/Resumes/Dalton_Tahy_Resume-Spanish.pdf) and English
 <br/><br/>
 ### What's Playing?
 &nbsp;<div align="center">
