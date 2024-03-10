@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 &nbsp;<div align="center">
-  [![Spotify](https://daltontahy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
+  [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
 </div>
 <!--
 **daltontahy/daltontahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
