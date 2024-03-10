@@ -11,7 +11,7 @@
    
 
 ### What's Playing?
-&nbsp;<div align="left">
+&nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
 </div>
 <!--
