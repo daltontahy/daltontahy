@@ -11,7 +11,7 @@
 My resume is in both [Spanish](https://github.com/daltontahy/daltontahy/blob/main/Resumes/Dalton_Tahy_Resume-Spanish.pdf) and English.  
 Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
 <br/><br/>
-### What's Playing?
+## What's Playing?
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
 </div>
