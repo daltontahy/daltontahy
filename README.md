@@ -1,7 +1,15 @@
 # Hi! My Name Is Dalton! 
-I'm A Current Freshman At Northeastern University Majoring In Computer Science & Math!
+### I'm A Current Freshman At Northeastern University Majoring In Computer Science & Math!
 
-&nbsp;<div align="center">
+# Who Am I?
+~ Orginally from New York, I'm currently pursuing my BS in Boston, MA
+~ My passions lie in culture, art, writing, and music 
+~ I love the intersection between creativity and technology, as explored in my projects
+~ I aspire to apply my unique worldview to a vast array of computing projects
+
+
+## What's Playing?
+&nbsp;<div align="left">
   [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
 </div>
 <!--
