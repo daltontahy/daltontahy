@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<a href="https://spotify-now-playing-ivory-nine.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-ivory-nine.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+&nbsp;<div align="center">
+  [![Spotify](https://daltontahy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
+</div>
 <!--
 **daltontahy/daltontahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
