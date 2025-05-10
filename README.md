@@ -13,7 +13,7 @@ Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
 
 <div align="center">
 
-[![LinkedIn Badge](https://github.com/daltontahy/Linkedinbadges/blob/main/assets/linkedin-badge.png?raw=true)](https://linkedinbadges-daltontahy.vercel.app)
+[![LinkedIn Badge](https://linkedinbadges.vercel.app/)](https://www.linkedin.com/in/dalton-tahy/)
 
 </div>
 
