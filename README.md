@@ -19,9 +19,10 @@ Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
 
 
 <br/><br/>
-## What's Playing?
 &nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
+  <a href="https://linkedinbadges-daltontahy.vercel.app">
+    <img src="https://github.com/daltontahy/Linkedinbadges/blob/main/assets/linkedin-badge.png?raw=true" alt="LinkedIn Badge Preview" width="300" />
+  </a>
 </div>
 <!--
 **daltontahy/daltontahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
