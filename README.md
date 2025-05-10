@@ -11,10 +11,11 @@
 My resume is available here.  
 Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
 
-<div align="center">
-
-[![LinkedIn Badge](https://linkedinbadges.vercel.app/)](https://www.linkedin.com/in/dalton-tahy/)
-
+&nbsp;<div align="center">
+  <!-- Dynamic LinkedIn Badge Image -->
+  <a href="https://www.linkedin.com/in/dalton-tahy" target="_blank">
+    <img src="https://linkedinbadges-daltontahy.vercel.app/badge-image.png" alt="LinkedIn Badge" width="300" />
+  </a>
 </div>
 
 
