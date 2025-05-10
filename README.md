@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 # Hi! My Name is Dalton! 
 ### I'm A Current Undergraduate Student at Northeastern, Studying Psychology & Behavioral Neuroscience
 
@@ -12,7 +11,12 @@
 My resume is available here.  
 Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dalton-tahy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dalton-tahy?trk=profile-badge">Dalton Tahy</a></div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton%20Tahy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dalton-tahy/)
+
+</div>
+
 
 <br/><br/>
 ## What's Playing?
