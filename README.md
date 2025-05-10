@@ -1,14 +1,14 @@
-# Hi! My Name Is Dalton! 
-### I'm A Current Undergraduate Student at Northeastern Studying Psychology & Behavioral Neuroscience
+# Hi! My Name is Dalton! 
+### I'm A Current Undergraduate Student at Northeastern, Studying Psychology & Behavioral Neuroscience
 
 ## Who Am I?
-~ Orginally from New York, I'm currently pursuing my BS in Boston, MA  
-~ My passions lie in culture, art, writing, and music   
-~ I love the intersection between the mind and technology, as explored in my projects   
-~ I aspire to apply my unique worldview in an array of clinical and research enviroments
+~ Originally from New York, I'm currently pursuing my BS in Boston, MA. 
+~ My passions lie in culture, art, writing, and music.   
+~ I love the intersection between the mind and technology, as explored in my projects.
+~ I aspire to apply my unique worldview in an array of clinical and research environments.
 
 ## Professional Information
-My resume is in both [Spanish](https://github.com/daltontahy/daltontahy/blob/main/Resumes/Dalton_Tahy_Resume-Spanish.pdf) and English.  
+My resume is available here.  
 Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
 <br/><br/>
 ## What's Playing?
