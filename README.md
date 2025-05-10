@@ -11,14 +11,6 @@
 My resume is available here.  
 Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
 
-&nbsp;<div align="center">
-  <!-- Dynamic LinkedIn Badge Image -->
-  <a href="https://www.linkedin.com/in/dalton-tahy" target="_blank">
-    <img src="https://linkedinbadges-daltontahy.vercel.app/badge-image.png" alt="LinkedIn Badge" width="300" />
-  </a>
-</div>
-
-
 ## What's Playing?
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-onv2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/daltonthefish)
