@@ -10,6 +10,7 @@
 ## Professional Information
 My resume is available here.  
 Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dalton-tahy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dalton-tahy?trk=profile-badge">Dalton Tahy</a></div>
 <br/><br/>
 ## What's Playing?
 &nbsp;<div align="center">
