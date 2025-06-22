@@ -2,10 +2,10 @@
 ### I'm A Current Undergraduate Student at Northeastern, 
 
 ## Who Am I?
-~ I'm originally from upstate New York, and currently pursuing my B.S. in Boston, MA. 
-~ My academic passions are neuroscience and psychological research.   
-~ I love the intersection between the mind and technology, as explored in my projects.
-~ I aspire to apply my biotechnical worldview in an array of clinical and research environments.
+~ I'm originally from upstate New York, and currently pursuing my B.S. in Boston, MA. /n
+~ My academic passions are neuroscience and psychological research.   /n
+~ I love the intersection between the mind and technology, as explored in my projects./n
+~ I aspire to apply my biotechnical worldview in an array of clinical and research environments./n
 
 ## Professional Information
 My resume is available here.  
