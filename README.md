@@ -8,8 +8,8 @@
 ~ I aspire to apply my biotechnical worldview in an array of clinical and research environments. <br>
 
 ## Professional Information
-My leetcode is available here [leetcode](https://leetcode.com/u/daltontahy/)
-Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
+My leetcode is available here [_Leetcode_](https://leetcode.com/u/daltontahy/) <br>
+Contact me on [_Linkedin_](https://www.linkedin.com/in/dalton-tahy/)
 
 ## What's Playing?
 &nbsp;<div align="center">
