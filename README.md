@@ -1,11 +1,11 @@
 # Hi! My Name is Dalton! 
-### I'm A Current Undergraduate Student at Northeastern, Studying Psychology & Behavioral Neuroscience
+### I'm A Current Undergraduate Student at Northeastern, 
 
 ## Who Am I?
-~ Originally from New York, I'm currently pursuing my BS in Boston, MA. 
-~ My passions lie in culture, art, writing, and music.   
+~ I'm originally from upstate New York, and currently pursuing my B.S. in Boston, MA. 
+~ My academic passions are neuroscience and psychological research.   
 ~ I love the intersection between the mind and technology, as explored in my projects.
-~ I aspire to apply my unique worldview in an array of clinical and research environments.
+~ I aspire to apply my biotechnical worldview in an array of clinical and research environments.
 
 ## Professional Information
 My resume is available here.  
