@@ -2,13 +2,13 @@
 ### I'm A Current Undergraduate Student at Northeastern, 
 
 ## Who Am I?
-~ I'm originally from upstate New York, and currently pursuing my B.S. in Boston, MA. /n
-~ My academic passions are neuroscience and psychological research.   /n
-~ I love the intersection between the mind and technology, as explored in my projects./n
-~ I aspire to apply my biotechnical worldview in an array of clinical and research environments./n
+~ I'm originally from upstate New York, and currently pursuing my B.S. in Boston, MA. <br>
+~ My academic passions are neuroscience and psychological research. <br>
+~ I love the intersection between the mind and technology, as explored in my projects. <br>
+~ I aspire to apply my biotechnical worldview in an array of clinical and research environments. <br>
 
 ## Professional Information
-My resume is available here.  
+My leetcode is available here [leetcode](https://leetcode.com/u/daltontahy/)
 Contact me on [linkedin](https://www.linkedin.com/in/dalton-tahy/)
 
 ## What's Playing?
